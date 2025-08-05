@@ -39,15 +39,19 @@ This project explores and demonstrates fundamental concepts of network programmi
 
 ### Ping Command Output
 <!-- Insert ping command screenshot here -->
-*[Ping Command Results Placeholder]*
+![alt text](image.png)
 
 ### Traceroute Visualization  
-<!-- Insert traceroute output screenshot here -->
-*[Traceroute Path Mapping Placeholder]*
+![alt text](image-1.png)
+
+### Multithreaded Traceroute Visualization 
+![alt text](image-2.png)
 
 ### Web Server Response
-<!-- Insert web server response screenshot here -->
-*[Web Server HTTP Response Placeholder]*
+![alt text](image-3.png)
+
+### Proxy Server Response
+![alt text](image-4.png)
 
 ## 🛠️ Technologies Used
 
